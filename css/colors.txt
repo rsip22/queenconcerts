@@ -1,0 +1,10 @@
+yellow = warning
+red = danger
+default = gray
+primary = blue
+
+warning
+d3bf7a
+
+danger
+b4021d
